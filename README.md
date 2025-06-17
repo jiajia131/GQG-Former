@@ -2,7 +2,7 @@
 Coming soon
 
 <p align="center">
-  <img src="images/图片1.svg" width="600"/>
+  <img src="图片1.svg" width="600"/>
 </p>
 
 <p align="center">
