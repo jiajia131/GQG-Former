@@ -1,2 +1,4 @@
 # GQG-Former
 Coming soon
+
+![Speed-accuracy trade-off on COCO test-dev. All models use ResNet-50 as the backbone. Our GQG-Former out performs most state-of-the-art real-time instance segmentation algorithms in both speed and accuracy.](images/‎图片1.svg)
